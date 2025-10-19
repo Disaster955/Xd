@@ -144,7 +144,7 @@ if game.PlaceId == 105392132063632 then
 
 local Tab = Window:CreateTab("105392132063632_Game_Support", 0)
 
-local running = false
+local running = true
 
 Tab:CreateToggle({
     Name = "Invincibility All",
