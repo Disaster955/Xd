@@ -139,9 +139,6 @@ local Button = Tab:CreateButton({
     end,
 })
 
--- Some Game
-if game.PlaceId == 73526576502092 then
-
 local Tab = Window:CreateTab("73526576502092_Game_Support", 0)
 
 local running = false
